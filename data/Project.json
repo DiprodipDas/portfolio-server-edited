@@ -1,0 +1,38 @@
+
+[
+    
+    {
+        "_id": "1",
+        "name": "PC Mama",
+        "description": "This is a usable Computer re-selling website.",
+        "technologies":"React.js, React Router, Tailwind CSS,Daisy UI, NodeJs , ExpressJs , Firebase Authentication,MongoDB",
+        "features":" •User can sign up themselves as a seller or buyer.• Buyer can be able to add product to their cart and view their all orders on the dashboard. • Seller Can be able to Add product and view their adding product on the dashboard.• Admin can be able to see all users, delete user, add admin.",
+        "img": "https://i.ibb.co/BCSZ5gf/pc.jpg",
+        "liveSide":"https://pc-mama-9bd62.web.app/",
+        "clientSide":"https://github.com/programming-hero-web-course-4/b612-used-products-resale-clients-side-DiprodipDas",
+        "serverSide":"https://github.com/programming-hero-web-course-4/b612-used-products-resale-server-side-DiprodipDas"
+    },
+    {
+        "_id": "2",
+        "name": "Dr Shetty Chamber",
+        "description": "This is a Doctor service review website",
+        "technologies":"React.js, React Router, Tailwind CSS,Daisy UI, NodeJs , ExpressJs , Firebase Authentication,MongoDB",
+        "features":" •In this website user can login with Google & Email.• Users can write a review for treatment.• Showing Course Details with more information.• Users can be able to add treatment and edit their review.",
+        "img": "https://i.ibb.co/sF1m3tq/doctor.jpg",
+        "liveSide":"https://service-review-assignmen-52fd5.web.app/",
+        "clientSide":"https://github.com/Porgramming-Hero-web-course/b6a11-service-review-client-side-DiprodipDas",
+        "serverSide":"https://github.com/Porgramming-Hero-web-course/b6a11-service-review-server-side-DiprodipDas"
+    },
+    {
+        "_id": "3",
+        "name": "EduSmart BD",
+        "description": "This is a Usable Computer Re-Selling Website.",
+        "technologies":"React.js, React Router, Bootstrap,NodeJs,ExpressJs,Firebase Authentication",
+        "features":" •A website for selling online EdTech courses.• In this website user can easily login with Google,GitHub & Email.• Showing Course Details with more information.",
+        "img": "https://i.ibb.co/54QqKk1/edu.jpg",
+        "liveSide":"https://edu-smart-bd.firebaseapp.com/",
+        "clientSide":"https://github.com/programming-hero-web-course1/b610-learning-platform-client-side-DiprodipDas",
+        "serverSide":"https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-DiprodipDas"
+    }
+
+]
